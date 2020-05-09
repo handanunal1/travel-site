@@ -1,1 +1,1 @@
-alert("Hello this is just a test.!!!6546546!!")
+import '../styles/styles.css'
